@@ -1,0 +1,27 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.jithiwifi
+{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+    color: purple;
+}
+.jio
+{
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    background-color: blanchedalmond;
+    line-height: 3;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+canvas{
+    border: 2px solid whitesmoke ;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightcoral ;
+    margin-top: 100px;
+}
